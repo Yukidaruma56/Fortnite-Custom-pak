@@ -1,2 +1,2 @@
 # Fortnite-Custom-pak
-Fortniteのcustom skinなどのpak保存用
+Fortniteのcustom skinなどのpakを保存する用
